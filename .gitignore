@@ -49,9 +49,9 @@ word_analysis*.html
 Thumbs.db
 
 # Project specific
-words.csv  # User's word list
-.beads/*.db  # bd issue tracker database
-.env  # Environment variables with secrets
-kaggle.json  # Kaggle credentials
-data/  # Downloaded datasets
-download_dataset.py  # Contains secret credentials
+words.csv
+.beads/
+.env
+kaggle.json
+data/
+download_dataset.py
